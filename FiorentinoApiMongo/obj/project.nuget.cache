@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "abXw7a5nScdEhcODxiFmQTzXUlG1GATmv3a1UqKu1d9k/mdhVU62p4YHH78qYQxMCPB+LhT6yYSAz4ENAz3plA==",
+  "dgSpecHash": "EE2Qz61rphy325zCFbuJGiYZBP8fBhG1KNdEQdOLUazCtukQE6zRQREBns6aGXEijBh7wyZRrrHTpOnnPAlO3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\49957976885\\Desktop\\FiorentinoApiMongo\\FiorentinoApiMongo.csproj",
+  "projectFilePath": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\FiorentinoApiMongo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\49957976885\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\49957976885\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

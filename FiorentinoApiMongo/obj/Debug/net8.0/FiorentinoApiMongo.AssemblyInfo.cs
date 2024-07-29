@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiorentinoApiMongo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efdc6a7a087621749e3e7083261f2bd86c440692")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiorentinoApiMongo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiorentinoApiMongo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

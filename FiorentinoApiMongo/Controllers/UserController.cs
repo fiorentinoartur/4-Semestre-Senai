@@ -15,15 +15,52 @@ namespace FiorentinoApiMongo.Controllers
 
         public UserController(MongoDbService mongoDbService)
         {
-            mongoDbService.GetDatabase.GetCollection<User>("user");
+          _users =  mongoDbService.GetDatabase.GetCollection<User>("user");
+
         }
 
 
 
-        //[HttpGet]
-        //public async Task<IActionResult<List<User>>> Get()
-        //{
+        [HttpGet]
+        public async Task<ActionResult<List<User>>> Get()
+        {
+            var users = await _users.Find(FilterDefinition<User>.Empty).ToListAsync();
 
-        //}
+            return Ok(users);
+        }
+
+        [HttpGet("id")]
+        public async Task<ActionResult<User>> GetById(string id)
+        {
+            var user = await _users.Find(x => x.Id == id).FirstOrDefaultAsync();
+
+            return Ok(user);
+        }
+
+
+        [HttpDelete("id")]
+        public async Task<ActionResult<User>> Delete(string id)
+        {
+            var user = await _users.DeleteOneAsync(x => x.Id == id);
+
+            return NoContent();
+        }
+
+
+        [HttpPost]
+        public async Task<ActionResult<User>> Post(User user)
+        {
+            await _users.InsertOneAsync(user);
+
+            return Ok(user);
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<User>> Put(User user)
+        {
+            await _users.ReplaceOneAsync(x => x.Id == user.Id, user);
+
+            return NoContent();
+        }
     }
 }

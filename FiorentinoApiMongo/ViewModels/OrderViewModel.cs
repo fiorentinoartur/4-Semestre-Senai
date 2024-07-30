@@ -1,10 +1,11 @@
-﻿using MongoDB.Bson;
+﻿using FiorentinoApiMongo.Domains;
 using MongoDB.Bson.Serialization.Attributes;
+using MongoDB.Bson;
 using System.Text.Json.Serialization;
 
-namespace FiorentinoApiMongo.Domains
+namespace FiorentinoApiMongo.ViewModels
 {
-    public class Order
+    public class OrderViewModel
     {
         [BsonId]
         [BsonElement("_id"), BsonRepresentation(BsonType.ObjectId)]
@@ -19,7 +20,7 @@ namespace FiorentinoApiMongo.Domains
 
 
         [BsonElement("clientId"), BsonRepresentation(BsonType.ObjectId)]
-   
+
         public string? ClientId { get; set; }
 
         [JsonIgnore]
@@ -28,20 +29,11 @@ namespace FiorentinoApiMongo.Domains
 
 
         [BsonElement("productId")]
-        //Referência para que eu consiga cadastrar um pedido com os produtos            
+      
         public List<string>? ProductId { get; set; }
 
-        //Referência para que quando eu liste os pedidos, venha os dados de cada produto
-        //[JsonIgnore]
-        //[BsonIgnore]
-        //public List<Product>? Products { get; set; } 
-
- 
-
-
-
-
-
-
+        [BsonIgnore]
+        [JsonIgnore]
+        public List<Product>? Products { get; set; }
     }
 }

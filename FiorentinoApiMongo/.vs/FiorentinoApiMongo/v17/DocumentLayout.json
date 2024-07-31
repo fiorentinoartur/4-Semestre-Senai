@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99D13CEF-4A8C-43E3-8CD3-34C8B80CE2E9}|FiorentinoApiMongo.csproj|c:\\users\\49957976885\\desktop\\4-semestre-senai\\fiorentinoapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,15 +78,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\ViewModels\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\ViewModels\\OrderViewModel.cs",
-              "RelativeToolTip": "ViewModels\\OrderViewModel.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAAiAAAA",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Client.cs",
+              "RelativeDocumentMoniker": "Domains\\Client.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Client.cs",
+              "RelativeToolTip": "Domains\\Client.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:25:40.103Z",
+              "WhenOpened": "2024-07-29T11:27:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:56:03.198Z",
               "EditorCaption": ""
             },
             {
@@ -97,14 +110,27 @@
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwDkAAAAqAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAawHIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T11:26:09.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\User.cs",
               "RelativeDocumentMoniker": "Domains\\User.cs",
@@ -112,21 +138,7 @@
               "RelativeToolTip": "Domains\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:21:54.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "Controllers\\ClientController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:56:03.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T11:21:54.988Z"
             },
             {
               "$type": "Document",
@@ -142,46 +154,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Order.cs",
               "RelativeDocumentMoniker": "Domains\\Order.cs",
               "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Order.cs",
               "RelativeToolTip": "Domains\\Order.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCQAAAA3AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T11:31:35.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Client.cs",
-              "RelativeDocumentMoniker": "Domains\\Client.cs",
-              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Client.cs",
-              "RelativeToolTip": "Domains\\Client.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:27:44.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Product.cs",
               "RelativeDocumentMoniker": "Domains\\Product.cs",
               "ToolTip": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Domains\\Product.cs",
               "RelativeToolTip": "Domains\\Product.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T11:51:38.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -189,12 +188,11 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAYwDEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T12:13:08.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T12:13:08.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -202,12 +200,11 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:55:16.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T12:55:16.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "FiorentinoApiMongo.csproj",
               "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4-Semestre-Senai\\FiorentinoApiMongo\\FiorentinoApiMongo.csproj",
               "RelativeDocumentMoniker": "FiorentinoApiMongo.csproj",
@@ -215,8 +212,7 @@
               "RelativeToolTip": "FiorentinoApiMongo.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T11:23:01.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T11:23:01.222Z"
             },
             {
               "$type": "Document",

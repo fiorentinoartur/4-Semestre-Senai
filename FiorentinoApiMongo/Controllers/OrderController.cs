@@ -29,16 +29,39 @@ namespace FiorentinoApiMongo.Controllers
         {
             var orders = await _orders.Find(FilterDefinition<Order>.Empty).ToListAsync();
 
+            foreach (var item in orders)
+            {
+                item.Client = await _client.Find(x => x.Id == item.ClientId).FirstOrDefaultAsync();
+
+                item.Products = new List<Product>();
+                foreach (var item1 in item.ProductId)
+                {
+                    var product = await _product.Find(x => x.Id == item1).FirstOrDefaultAsync();
+                    item.Products.Add(product);
+                }
+            }
+
             return Ok(orders);
         }
 
         [HttpGet("id")]
         public async Task<ActionResult<Order>> GetById(string id)
         {
-            var order = await _client.Find(x => x.Id == id).FirstOrDefaultAsync();
+            var orders = await _orders.Find(x => x.Id == id).FirstOrDefaultAsync();
 
-            return Ok(order);
+
+            orders.Client = await _client.Find(x => x.Id == orders.ClientId).FirstOrDefaultAsync();
+
+            orders.Products = new List<Product>();
+            foreach (var item1 in orders.ProductId)
+            {
+                var product = await _product.Find(x => x.Id == item1).FirstOrDefaultAsync();
+                orders.Products.Add(product);
+            }
+            return Ok(orders);
         }
+
+
 
         [HttpPost]
         public async Task<ActionResult<Order>> Post(OrderViewModel order)
@@ -55,21 +78,41 @@ namespace FiorentinoApiMongo.Controllers
             if (client == null)
                 return NotFound();
 
-                await _orders.InsertOneAsync(ord);
+            await _orders.InsertOneAsync(ord);
 
             return NoContent();
         }
         [HttpPut]
-        public async Task<ActionResult<Order>> Put(Order order)
+        public async Task<ActionResult<Order>> Put(OrderViewModel order)
         {
-            await _orders.ReplaceOneAsync(x => x.Id == order.Id, order);
+            var ord = await _orders.Find(x => x.Id == order.Id).FirstOrDefaultAsync();
+
+            if(order.Date != null)
+            ord.Date = order.Date;
+
+            if(order.Status != null)
+            ord.Status = order.Status;
+
+            if(order.ProductId != null)
+            ord.ProductId = order.ProductId;
+
+            if(order.ClientId != null)
+            ord.ClientId = order.ClientId;
+
+            var client = _client.Find(x => x.Id == ord.ClientId).FirstOrDefaultAsync();
+
+            if (client == null)
+                return NotFound();
+
+            await _orders.ReplaceOneAsync(x => x.Id == order.Id, ord);
 
             return NoContent();
+
         }
         [HttpDelete("id")]
         public async Task<ActionResult<Order>> Delete(string id)
         {
-            await _orders.DeleteManyAsync(x => x.Id == id);
+            await _orders.DeleteOneAsync(x => x.Id == id);
 
             return NoContent();
         }

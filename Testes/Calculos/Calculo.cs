@@ -82,8 +82,9 @@ namespace Calculos
 
         public static double? ConverterTemperatura(double value)
         {
-            return (value - 32) * (5 / 9);
+            return value * (9 / 5) + 32;
         }
+     
 
         public static bool AdicionarProduto(string produto)
 

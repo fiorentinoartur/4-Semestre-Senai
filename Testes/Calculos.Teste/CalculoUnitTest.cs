@@ -99,9 +99,9 @@ namespace Calculos.Teste
         [Fact]
         public void ConverterTemperatura()
         {
-            var valor = 32;
+            var valor = 0;
 
-            var resultadoEsperado = 0;
+            var resultadoEsperado = 32;
 
             var resultado = Calculo.ConverterTemperatura(valor);
 

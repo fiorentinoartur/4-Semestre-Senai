@@ -1,0 +1,15 @@
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\bin\Debug\net8.0\FiorentinoApp.exe
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\bin\Debug\net8.0\FiorentinoApp.deps.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\bin\Debug\net8.0\FiorentinoApp.runtimeconfig.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\bin\Debug\net8.0\FiorentinoApp.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\bin\Debug\net8.0\FiorentinoApp.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.AssemblyInfoInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.AssemblyInfo.cs
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.csproj.CoreCompileInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.sourcelink.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\refint\FiorentinoApp.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\FiorentinoApp.genruntimeconfig.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\FiorentinoApp\obj\Debug\net8.0\ref\FiorentinoApp.dll

@@ -1,0 +1,15 @@
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\bin\Debug\net8.0\02 - Tabuada.exe
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\bin\Debug\net8.0\02 - Tabuada.deps.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\bin\Debug\net8.0\02 - Tabuada.runtimeconfig.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\bin\Debug\net8.0\02 - Tabuada.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\bin\Debug\net8.0\02 - Tabuada.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.AssemblyInfoInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.AssemblyInfo.cs
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.sourcelink.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\refint\02 - Tabuada.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\02 - Tabuada.genruntimeconfig.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\02 - Tabuada\obj\Debug\net8.0\ref\02 - Tabuada.dll

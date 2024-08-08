@@ -1,0 +1,15 @@
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\bin\Debug\net8.0\03 - SomaNumerosPares.exe
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\bin\Debug\net8.0\03 - SomaNumerosPares.deps.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\bin\Debug\net8.0\03 - SomaNumerosPares.runtimeconfig.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\bin\Debug\net8.0\03 - SomaNumerosPares.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\bin\Debug\net8.0\03 - SomaNumerosPares.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.AssemblyInfo.cs
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.sourcelink.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\refint\03 - SomaNumerosPares.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\03 - SomaNumerosPares.genruntimeconfig.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\03 - SomaNumerosPares\obj\Debug\net8.0\ref\03 - SomaNumerosPares.dll

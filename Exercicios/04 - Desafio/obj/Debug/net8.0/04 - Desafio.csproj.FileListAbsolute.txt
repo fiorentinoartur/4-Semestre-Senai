@@ -1,0 +1,15 @@
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\bin\Debug\net8.0\04 - Desafio.exe
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\bin\Debug\net8.0\04 - Desafio.deps.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\bin\Debug\net8.0\04 - Desafio.runtimeconfig.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\bin\Debug\net8.0\04 - Desafio.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\bin\Debug\net8.0\04 - Desafio.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.AssemblyInfoInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.AssemblyInfo.cs
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.csproj.CoreCompileInputs.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.sourcelink.json
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\refint\04 - Desafio.dll
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.pdb
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\04 - Desafio.genruntimeconfig.cache
+C:\Users\49957976885\Desktop\4-Semestre-Senai\04 - Desafio\obj\Debug\net8.0\ref\04 - Desafio.dll

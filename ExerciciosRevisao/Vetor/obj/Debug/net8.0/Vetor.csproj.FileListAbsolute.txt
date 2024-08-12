@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\bin\Debug\net8.0\Vetor.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\bin\Debug\net8.0\Vetor.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\bin\Debug\net8.0\Vetor.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\bin\Debug\net8.0\Vetor.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Vetor\obj\Debug\net8.0\ref\Vetor.dll

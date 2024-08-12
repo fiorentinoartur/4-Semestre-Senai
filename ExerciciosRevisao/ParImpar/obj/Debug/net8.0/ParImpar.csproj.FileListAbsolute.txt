@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\bin\Debug\net8.0\ParImpar.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\bin\Debug\net8.0\ParImpar.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\bin\Debug\net8.0\ParImpar.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\bin\Debug\net8.0\ParImpar.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\bin\Debug\net8.0\ParImpar.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\refint\ParImpar.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ParImpar.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\ParImpar\obj\Debug\net8.0\ref\ParImpar.dll

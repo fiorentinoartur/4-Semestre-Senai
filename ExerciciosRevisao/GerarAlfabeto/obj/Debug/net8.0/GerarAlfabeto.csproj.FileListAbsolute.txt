@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\bin\Debug\net8.0\GerarAlfabeto.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\bin\Debug\net8.0\GerarAlfabeto.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\bin\Debug\net8.0\GerarAlfabeto.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\bin\Debug\net8.0\GerarAlfabeto.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\bin\Debug\net8.0\GerarAlfabeto.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\refint\GerarAlfabeto.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\GerarAlfabeto.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\GerarAlfabeto\obj\Debug\net8.0\ref\GerarAlfabeto.dll

@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\bin\Debug\net8.0\NumPares.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\bin\Debug\net8.0\NumPares.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\bin\Debug\net8.0\NumPares.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\bin\Debug\net8.0\NumPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\bin\Debug\net8.0\NumPares.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\refint\NumPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\NumPares.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\NumPares\obj\Debug\net8.0\ref\NumPares.dll

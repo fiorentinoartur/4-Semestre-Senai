@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\bin\Debug\net8.0\Tentativa.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\bin\Debug\net8.0\Tentativa.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\bin\Debug\net8.0\Tentativa.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\bin\Debug\net8.0\Tentativa.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\bin\Debug\net8.0\Tentativa.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\refint\Tentativa.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\Tentativa.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\Tentativa\obj\Debug\net8.0\ref\Tentativa.dll

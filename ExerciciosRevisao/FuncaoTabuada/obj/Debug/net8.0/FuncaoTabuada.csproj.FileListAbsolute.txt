@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\bin\Debug\net8.0\FuncaoTabuada.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\bin\Debug\net8.0\FuncaoTabuada.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\bin\Debug\net8.0\FuncaoTabuada.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\bin\Debug\net8.0\FuncaoTabuada.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\bin\Debug\net8.0\FuncaoTabuada.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\refint\FuncaoTabuada.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\FuncaoTabuada.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\FuncaoTabuada\obj\Debug\net8.0\ref\FuncaoTabuada.dll

@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\bin\Debug\net8.0\SomaNumerosPares.exe
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\bin\Debug\net8.0\SomaNumerosPares.deps.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\bin\Debug\net8.0\SomaNumerosPares.runtimeconfig.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\bin\Debug\net8.0\SomaNumerosPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\bin\Debug\net8.0\SomaNumerosPares.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.sourcelink.json
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\refint\SomaNumerosPares.dll
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.pdb
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\SomaNumerosPares.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\4Semestre\4SemestreSenai\ExerciciosRevisao\SomaNumerosPares\obj\Debug\net8.0\ref\SomaNumerosPares.dll

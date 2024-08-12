@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\producttestapi\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\producttestapi\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|solutionrelative:controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\producttestapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2FB8B9-6562-4A3F-9A4A-9105E93673B5}|..\\TesteApiProducts.Test\\TesteApiProducts.Test.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\testeapiproducts.test\\productstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\producttestapi\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|solutionrelative:interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\producttestapi\\repositories\\productrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3117E45-B36F-4CBC-A191-7F197A4F189E}|ProductTestApi.csproj|solutionrelative:repositories\\productrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2FB8B9-6562-4A3F-9A4A-9105E93673B5}|..\\TesteApiProducts.Test\\TesteApiProducts.Test.csproj|c:\\users\\49957976885\\desktop\\4semestresenai\\testeapiproducts.test\\listproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "Controllers\\Products.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Controllers\\Products.cs",
+              "RelativeToolTip": "Controllers\\Products.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:32.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Repositories\\ProductRepositorie.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositorie.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\ProductTestApi\\Repositories\\ProductRepositorie.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositorie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:20.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListProducts.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\TesteApiProducts.Test\\ListProducts.cs",
+              "RelativeDocumentMoniker": "..\\TesteApiProducts.Test\\ListProducts.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\TesteApiProducts.Test\\ListProducts.cs",
+              "RelativeToolTip": "..\\TesteApiProducts.Test\\ListProducts.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:20.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsTest.cs",
+              "DocumentMoniker": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\TesteApiProducts.Test\\ProductsTest.cs",
+              "RelativeDocumentMoniker": "..\\TesteApiProducts.Test\\ProductsTest.cs",
+              "ToolTip": "C:\\Users\\49957976885\\Desktop\\4SemestreSenai\\TesteApiProducts.Test\\ProductsTest.cs",
+              "RelativeToolTip": "..\\TesteApiProducts.Test\\ProductsTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:02:20.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

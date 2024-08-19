@@ -6,12 +6,16 @@
   font-family: "Lato", sans-serif;
   box-sizing: border-box;
   text-decoration: none;
+
 }
 
 header {
   height: 461px;
   width: 100%;
   background: linear-gradient(45deg, #1e52b4, #002777);
+}
+.mostrar-menu {
+  right: 0 !important;
 }
 
 .container {
@@ -30,18 +34,22 @@ header {
   justify-content: space-between;
 }
 
-.header-container {
+.header-container-desktop{
   padding: 20px 0;
 }
-.links-header {
+.header-container-mobile{
+  padding: 20px 0;
+  display: none;
+}
+.links-header-desktop {
   gap: 20px;
   align-items: center;
 }
-.links-header a {
+.links-header-desktop a {
   color: white;
   font-size: 14px;
 }
-.links-header button {
+.links-header-desktop button {
   background-color: transparent;
   border-color: white;
   width: 160px;
@@ -93,6 +101,7 @@ h1 {
   align-items: center;
   justify-content: space-evenly;
   width: 25%;
+  gap: 10px;
 }
 .header-search > div:nth-child(4) {
   border-right: none;
@@ -196,3 +205,133 @@ footer img{
   
 margin: 15px auto;
 }
+
+
+@media (max-width: 1024px)
+{
+  .header-search {
+    width: 100%;
+
+  }
+  
+  .header-search > div {
+
+    width: 25%;
+  }
+  .header-search > div > p{
+font-size: 14px;
+  }
+
+  .header-search > div > img{
+    font-size: 13px;
+    width: 13px;
+      }
+
+}
+
+@media (max-width: 768px)
+{
+.header-container-desktop
+{
+  display: none;
+}
+
+.header-container-mobile
+{
+  display: flex;
+
+}
+.header-container-mobile img
+{
+  height: 25px;
+}
+.menu
+{
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+}
+  .header-search{
+    display: none;
+  }
+  .section-main2, .header-information{
+    flex-direction: column;
+  }
+
+
+  .section-main2 img {
+    width: 70%;
+  }
+  .section-main2 div {
+    width: 100%;
+margin-bottom: 50px;
+font-size: 24px;
+  }
+  .section-main2 > div >  h2, .section-main3 > h2{
+    font-size: 20px;
+  }
+  .section-main2 > div >  p{
+    font-size: 16px;
+  }
+
+  .header-information > div > h1{
+    font-size: 24px;
+  }
+
+  .header-information > div > p{
+    font-size: 16px;
+  }
+header{
+  height: 550px;
+  position: relative;
+}
+
+  .header-information img {
+    width: 65%;
+  }
+  .header-information div{
+    width: 100%;
+    margin: 50px 0;
+  }
+
+
+.opcoes{
+  background-color: red;
+  height: 300px;
+  width: 50%;
+  border-radius: 8px;
+  top: 60px  
+   ;
+  position: absolute;
+right: -50%;
+background: linear-gradient(45deg, #002777,  rgba(30, 82, 180));
+border: 1px solid white;
+padding: 15px;
+flex-direction: column;
+display: flex;
+gap: 20px;
+align-items: center;
+}
+
+.opcoes a{
+  color: white;
+  text-align: center;
+  border-bottom: 1px solid white;
+  padding-bottom: 8px;
+  width: 100%;
+}
+
+.opcoes button{
+border-radius: 8px;
+margin-top: 100px;
+height: 35px;
+width: 80%;
+background: linear-gradient(45deg, #009C3B
+, #009538
+);
+color: white;
+border: none;
+cursor: pointer;
+}
+}
+

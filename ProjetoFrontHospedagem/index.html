@@ -9,15 +9,23 @@
   <body>
     <header>
       <div class="container">
-        <div class="d-flex header-container">
+        <div class="d-flex header-container-desktop">
           <img src="./assets/logo-branca.png" alt="" />
-          <div class="d-flex links-header">
+          <div class="d-flex links-header-desktop">
             <a href="">Hotéis</a>
             <a href="">Contato</a>
             <a href="">Entrar</a>
             <button>Cadastre-se</button>
           </div>
         </div>
+
+  <div class="d-flex header-container-mobile">
+    <img src="./assets/logo-branca.png" alt="" />
+    <img class="menu" src="./assets/icons/menu.svg" alt=""  onclick="mostrarMenu()"/>
+  </div>
+
+
+
 
         <div class="d-flex header-information">
           <div>
@@ -50,6 +58,12 @@
             <button>Procurar Hotel</button>
           </div>
         </div>
+      </div>
+      <div class="opcoes" id="opcoes" >
+        <a href="">Hotéis</a>
+        <a href="">Contato</a>
+        <a href="">Entrar</a>
+        <button>Cadastre-se</button>
       </div>
     </header>
 
@@ -184,9 +198,17 @@
           </div>
       </section>
     </main>
+
+
   </body>
 
   <footer class="d-flex">
    <img src="./assets/logo-preta.png" alt="">
   </footer>
+
+  <script>
+    function mostrarMenu(){
+      document.getElementById("opcoes").classList.toggle("mostrar-menu")
+    }
+  </script>
 </html>

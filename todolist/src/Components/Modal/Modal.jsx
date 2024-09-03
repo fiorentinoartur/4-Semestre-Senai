@@ -17,7 +17,7 @@ const Modal = ({  onAddTask, description, idTask, editTask }) => {
        <div className='modal'>
        
               <p>Descreva sua tarefa</p>
-              <input value={taskDescription} onChange={(e) => setTaskDescription(e.target.value)} placeholder='Exemplo de descrição' className='intModal'></input>
+              <input  value={taskDescription} onChange={(e) => setTaskDescription(e.target.value)} placeholder='Exemplo de descrição' className='intModal'></input>
          
 
          <Button onClick={() => {

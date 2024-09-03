@@ -6,7 +6,7 @@ const Input = ({search}) => {
 
         <div className='input'>
             <img className='teste' src={Search} alt="" />
-        <input  onChange={(e) => {
+        <input    onChange={(e) => {
 search(e.target.value)
         }} className='inp'   placeholder='Procurar tarefa'>
         </input>

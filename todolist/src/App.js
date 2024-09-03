@@ -55,13 +55,13 @@ const BuscarTarfefa = (valor) => {
 
   function buscarDia() {
     var diaSemana = [
-      "domingo",
-      "segunda-feira",
-      "terça-feira",
-      "quarta-feira",
-      "quinta-feira",
-      "sexta-feira",
-      "sábado",
+      "Domingo",
+      "Segunda-feira",
+      "Terça-feira",
+      "Quarta-feira",
+      "Quinta-feira",
+      "Sexta-feira",
+      "Sábado",
     ];
 
     var diaAtual = new Date().getDay();
@@ -71,18 +71,18 @@ const BuscarTarfefa = (valor) => {
 
   function buscarMes() {
     var meses = [
-      "janeiro",
-      "fevereiro",
-      "março",
-      "abril",
-      "maio",
-      "junho",
-      "julho",
-      "agosto",
-      "setembro",
-      "outubro",
-      "novembro",
-      "dezembro",
+      "Janeiro",
+      "Fevereiro",
+      "Março",
+      "Abril",
+      "Maio",
+      "Junho",
+      "Julho",
+      "Agosto",
+      "Setembro",
+      "Outubro",
+      "Novembro",
+      "Dezembro",
     ];
 
     var mesAtual = new Date().getMonth();
@@ -104,7 +104,8 @@ const BuscarTarfefa = (valor) => {
           <Input search={BuscarTarfefa}/>
 
           <div className="containerCards">
-            {Array.filter(x => x.description.includes(filtrarArray)).map((e) => {
+            {Array.filter(x => x.description
+            .includes(filtrarArray)).map((e) => {
               return (
                 <Task
                   editClick={editTask}

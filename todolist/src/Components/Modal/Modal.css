@@ -1,6 +1,7 @@
 .modal{
     position: fixed;
     background-color: #1E123B;
+    right: calc(50% - 457px);
     border-radius: 10px;
 width: 914px;
 height: 472px;
@@ -21,4 +22,11 @@ background-color: transparent;
 border: 2px solid white;
 border-radius: 8px;
 color: white;
+line-height: 30px;
+
 }
+
+.intModal::placeholder{
+    transform: translateY(-60px);
+}
+
